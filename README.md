@@ -2,7 +2,7 @@ My C++ materials with notes, Practice problems, and material.
 
 ## Materials
 1. Best Playlist to learn CPP: [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
-2. [GFG](https://www.geeksforgeeks.org/c-plus-plus/?ref=lbp)
+2. For Theory: [GFG](https://www.geeksforgeeks.org/c-plus-plus/?ref=lbp)
 3. CPP Cheatsheet: [CPP Cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 
 ## Other References
