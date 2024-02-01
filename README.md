@@ -1,4 +1,4 @@
-My C++ materials with notes, Practice problems, and material.
+My C++ and OOPs materials with notes, Practice problems, and material.
 
 ## Materials
 1. Best Playlist to learn CPP: [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
