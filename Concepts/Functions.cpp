@@ -32,22 +32,15 @@ int main() {
 
     cout << "The answer is = " << ans << endl;
 
-    If we want to find the power the we have
-    to run this program multiple times or 
-    we have to write the same program with
-    different variables. This makes the code
-    bulky, buggy and unreadbale.*/
+    If we want to find the power we have to run this program multiple times or we have to write the same program with
+    different variables. This makes the code bulky, buggy, and unreadable.*/
 
     // To prevent this "FUNCTIONS" are used.
 
     /* FUNCTIONS - 
 
-    A function is a block of code which only 
-    runs when it is called. You can pass data, 
-    known as parameters, into a function.
-
-    In other words a function is a block of 
-    code for a well defined task. 
+    A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function.
+    In other words, a function is a block of code for a well-defined task. 
 
     Syntax - 
 

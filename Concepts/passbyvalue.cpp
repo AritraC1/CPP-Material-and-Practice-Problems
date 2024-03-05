@@ -1,10 +1,8 @@
 // Pass By Value
 
 /*
-The compiler copies the value of an argument 
-in a calling function to a corresponding 
-non-pointer or non-reference parameter in the 
-called function definition.
+The compiler copies the value of an argument in a calling function to a corresponding non-pointer or non-reference 
+parameter in the called function definition.
 */
 
 #include <iostream>
